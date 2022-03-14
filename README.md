@@ -6,4 +6,4 @@ In `login.h` you can edit the login information.
 string username = "root";
 string password = "root";
 ```
-If you want you can also edit the banner in `banner.h`
+you can also go into `banner.h` and edit the banner.
