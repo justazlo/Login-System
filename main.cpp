@@ -1,3 +1,8 @@
+/*
+Copyright © Azlo 2022
+This Repository Will Be Updated!
+Feel Free To Fork This Repository!
+*/
 #include <iostream>
 #include <unistd.h>
 #include <chrono>
