@@ -12,10 +12,10 @@ int main() {
     string user;
     string pass;
     system("clear");        
-    cout << "Enter Your Username: " << endl;
+    cout << "Enter Your Username: ";
     cin >> user;
     system("clear");
-    cout << "Enter Your Password: " << endl;
+    cout << "Enter Your Password: ";
     cin >> pass;
     if (user == username && pass == password) {
         system("clear");
